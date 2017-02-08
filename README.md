@@ -2,7 +2,7 @@
 
 Program inputs station and ridership CSV files from Chicago's Divvy Rental bike program and displays information based on the following commands:
 
-** Commands **
+**Commands**
 - Display information of a station:
 ```
 info [station id]
