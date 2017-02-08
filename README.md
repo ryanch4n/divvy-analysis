@@ -19,3 +19,18 @@ top [N]
 ```
 hourly
 ```
+- Exit program
+```
+exit
+```
+
+**To Run**
+- Input stations file
+```
+stations.csv
+```
+- Input ridership file
+```
+ridership.csv
+```
+- Enter any command
