@@ -1,6 +1,17 @@
 # divvy-analysis
 
-Program inputs station and ridership CSV files from Chicago's Divvy Rental bike program and displays information based on the following commands:
+Program inputs station and ridership CSV files from Chicago's Divvy Rental bike program and displays information based on the input commands.
+
+**To Run**
+- Input stations file
+```
+stations.csv
+```
+- Input ridership file
+```
+ridership.csv
+```
+- Enter any command:
 
 **Commands**
 - Display information of a station:
@@ -24,13 +35,3 @@ hourly
 exit
 ```
 
-**To Run**
-- Input stations file
-```
-stations.csv
-```
-- Input ridership file
-```
-ridership.csv
-```
-- Enter any command
