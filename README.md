@@ -12,10 +12,12 @@ Input ridership file:
 ```
 ridership.csv
 ```
-- Enter any command:
+- Enter a command
+
 
 
 **Commands**
+
 Display information of a station:
 ```
 info [station id]
